@@ -1,0 +1,44 @@
+# iteration one
+# Jacob Fionn
+
+comments on current system (Alfred):
+
+
+FOCUS:
+
+- iteration 1 focuses on core functionality
+	- static generation of html files
+	- working links
+	- working menu 
+
+
+Comments: CLIENT = ALFRED 
+
+DATABASE:
+
+- db can be built manually
+
+UI:
+
+- not the focus of iteration one
+- will have to have style consistent accross all pages by iteration 3
+
+CORE FUNCTIONALITY:
+
+- menus hardcoded can be predefined
+- working links are satasfactory
+- static generation works well for current database sample
+
+SEARCH:
+
+- searching not implemented
+- expected to be working by iteration 2
+
+FUTURE CONSIDERATIONS:
+
+- increase database size for iteration two
+- Alfred will deliver new database samples next week
+- search functionality included
+- static generation with whole database 
+- needs to be generated in a reasonable amount of time 
+ 

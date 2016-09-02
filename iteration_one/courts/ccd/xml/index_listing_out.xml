@@ -1,0 +1,50 @@
+<file name="###index.html###">
+
+		###<html>
+<head>
+<title>
+					INDEX PAGE
+				</title>
+<style type="text/css">@import url(../../../style/pl.css); </style>
+</head>
+<div class="dropdown-list">
+<div class="dropdown">
+<button class="dropbtn">SUPERIOR COURTS</button><div class="dropdown-content">
+<a href="index.html"> CONSTITUTIONAL COURT </a><a href="#"> SUPREME COURT OF APPEAL </a><a href="#"> COMPETITION APPEAL COURT </a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">HIGH COURTS</button><div class="dropdown-content">
+<a href="#"></a><a href="#"> Link 2 </a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">LABOUR COURTS</button><div class="dropdown-content">
+<a href="#"> Link 1 </a><a href="#"> Link 2 </a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">SPECIAL COURTS</button><div class="dropdown-content">
+<a href="#"> Link 1 </a><a href="#"> Link 2 </a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">LAW JOURNALS</button><div class="dropdown-content">
+<a href="#"> Link 1 </a><a href="#"> Link 2 </a>
+</div>
+</div>
+<div class="dropdown">
+<button class="dropbtn">RULES OF COURT</button><div class="dropdown-content">
+<a href="#"> Link 1 </a><a href="#"> Link 2 </a>
+</div>
+</div>
+</div>
+<body>
+<p> Decisions beginning with: <br></p>
+<ul><li><a href="Y.html">Y</a></li></ul>
+<ul><li><a href="C.html">C</a></li></ul>
+<ul><li><a href="D.html">D</a></li></ul>
+<ul><li><a href="G.html">G</a></li></ul>
+</body>
+</html>###
+	</file>

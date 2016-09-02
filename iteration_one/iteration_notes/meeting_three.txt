@@ -1,0 +1,16 @@
+# Jacob Fionn
+# Hussein 
+
+Iterative design
+2nd iteration
+3rd iteration - 3rd week of september 
+
+- what is the process you have followed? 
+- did you produce all the software engineering artefacts
+- iterative
+
+you are on the right track 
+
+- formalize project into SE project
+
+
