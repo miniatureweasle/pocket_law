@@ -1,4 +1,4 @@
-# Pocket Law (UCT Honours Project)
+# Pocket Law
 Access to laws and judgements from SAFFLI
 
 
